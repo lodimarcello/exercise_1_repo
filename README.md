@@ -1,3 +1,4 @@
-hi it is me ali
+
+hi it is me Lorenzo
 
 # exercise_1_repo
